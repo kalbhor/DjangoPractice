@@ -1,0 +1,16 @@
+li a {
+   color: green;
+   text-decoration: none;
+
+}
+
+li a:hover{
+	color: #c61755;
+	text-decoration: none;
+}
+
+
+
+body {
+	background: white url("images/background.png") no-repeat right bottom;
+}
